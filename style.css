@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+canvas{
+    border: 5px groove rgb(111, 33, 49);
+}
+button{
+    background-color: rgb(181, 79, 79);
+    border: 3px groove rgb(111, 33, 49);
+    padding:10px;
+    margin: 10px;
+    border-radius: 15px;
+    font-size: 15px;
+    color: white;
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+h3{
+    border-radius: 15px;
+    width: fit-content;
+    padding: 5px;
+    color: white;
+}
